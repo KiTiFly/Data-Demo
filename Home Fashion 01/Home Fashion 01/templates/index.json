@@ -1,0 +1,766 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slider-fashion-1.png",
+            "image_position": "left",
+            "content_position": "left",
+            "subtitle": "APPLE WATCHES COLLECTION",
+            "heading": "Style Redefined",
+            "subheading": "Discover the latest trends in fashion that speak your style.",
+            "button_text": "Shop Now",
+            "button_link": "\/collections\/all"
+          }
+        },
+        "slide_RUWE4t": {
+          "type": "slide",
+          "settings": {
+            "image_position": "left",
+            "content_position": "left",
+            "subtitle": "SUMMER COLLECTION",
+            "heading": "Style Redefined",
+            "subheading": "Discover the latest trends in fashion that speak your style.",
+            "button_text": "Shop Now",
+            "button_link": ""
+          }
+        },
+        "slide_JxjNed": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GooglePay.png",
+            "image_position": "left",
+            "content_position": "left",
+            "subtitle": "SUMMER COLLECTION",
+            "heading": "Style Redefined",
+            "subheading": "Discover the latest trends in fashion that speak your style.",
+            "button_text": "Shop Now",
+            "button_link": ""
+          }
+        },
+        "slide_mnMWxD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mastercard.png",
+            "image_position": "left",
+            "content_position": "left",
+            "subtitle": "SUMMER COLLECTION",
+            "heading": "Style Redefined",
+            "subheading": "Discover the latest trends in fashion that speak your style.",
+            "button_text": "Shop Now",
+            "button_link": ""
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slider-fashion-2.png",
+            "image_position": "left",
+            "content_position": "left",
+            "subtitle": "APPLE WATCHES COLLECTION",
+            "heading": "Style Redefined",
+            "subheading": "Discover timeless styles for every occasion.",
+            "button_text": "Shop Now",
+            "button_link": "\/collections\/all"
+          }
+        },
+        "slide-3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slider-fashion-3.png",
+            "image_position": "left",
+            "content_position": "left",
+            "subtitle": "APPLE WATCHES COLLECTION",
+            "heading": "Style Redefined",
+            "subheading": "Timeless pieces to refresh your look for every season.",
+            "button_text": "Shop Now",
+            "button_link": "\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide_RUWE4t",
+        "slide_JxjNed",
+        "slide_mnMWxD",
+        "slide-2",
+        "slide-3"
+      ],
+      "settings": {
+        "layout": "bicycle",
+        "autoplay": true,
+        "loop": true,
+        "speed": 800
+      }
+    },
+    "collection_categories": {
+      "type": "collection-categories",
+      "blocks": {
+        "tops": {
+          "type": "category",
+          "settings": {
+            "category_image": "shopify:\/\/shop_images\/top.jpg",
+            "title": "Tops",
+            "category_url": "\/collections\/tops"
+          }
+        },
+        "accessories": {
+          "type": "category",
+          "settings": {
+            "category_image": "shopify:\/\/shop_images\/accessories.jpg",
+            "title": "Accessories",
+            "category_url": "\/collections\/accessories"
+          }
+        },
+        "sportwear": {
+          "type": "category",
+          "settings": {
+            "category_image": "shopify:\/\/shop_images\/sportwear.jpg",
+            "title": "Sportwear",
+            "category_url": "\/collections\/sportwear"
+          }
+        },
+        "men": {
+          "type": "category",
+          "settings": {
+            "category_image": "shopify:\/\/shop_images\/men.jpg",
+            "title": "Men",
+            "category_url": "\/collections\/men"
+          }
+        },
+        "kids": {
+          "type": "category",
+          "settings": {
+            "category_image": "shopify:\/\/shop_images\/kid.jpg",
+            "title": "Kids",
+            "category_url": "\/collections\/kids"
+          }
+        }
+      },
+      "block_order": [
+        "tops",
+        "accessories",
+        "sportwear",
+        "men",
+        "kids"
+      ],
+      "settings": {
+        "title": "Shop by Category"
+      }
+    },
+    "banner_countdown": {
+      "type": "banner-countdown",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fashion-1.jpg",
+        "season_text": "SUMMER SALE",
+        "discount_text": "50% OFF",
+        "promo_code_text": "WITH PROMOTE CODE: 12D34E",
+        "button_text": "Shop Now",
+        "button_link": "",
+        "end_date": "2024-12-31 23:59:59"
+      }
+    },
+    "categories": {
+      "type": "categories",
+      "blocks": {
+        "category_QcQGr7": {
+          "type": "category",
+          "settings": {
+            "collection": "accessories"
+          }
+        },
+        "category_fpzWkk": {
+          "type": "category",
+          "settings": {
+            "collection": "baby"
+          }
+        },
+        "category_Tpaxey": {
+          "type": "category",
+          "settings": {
+            "collection": "bike"
+          }
+        },
+        "category_jNmdrL": {
+          "type": "category",
+          "settings": {
+            "collection": "houseware"
+          }
+        },
+        "category_arkbTd": {
+          "type": "category",
+          "settings": {
+            "collection": "men"
+          }
+        },
+        "category_FKEjKA": {
+          "type": "category",
+          "settings": {
+            "collection": "women"
+          }
+        }
+      },
+      "block_order": [
+        "category_QcQGr7",
+        "category_fpzWkk",
+        "category_Tpaxey",
+        "category_jNmdrL",
+        "category_arkbTd",
+        "category_FKEjKA"
+      ],
+      "settings": {
+        "layout": "home-electronic",
+        "title": "Categories",
+        "image_style": "circle",
+        "collections_to_show": 6,
+        "products_per_collection": 6
+      }
+    },
+    "todays_picks": {
+      "type": "todays-picks",
+      "blocks": {
+        "product-0": {
+          "type": "product",
+          "settings": {
+            "title": "Polo Neck T-Shirt",
+            "price": "$100.00",
+            "compare_price": "$130.00",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product-1": {
+          "type": "product",
+          "settings": {
+            "title": "Loose Fit Tee",
+            "price": "$130.00",
+            "compare_price": "",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product-2": {
+          "type": "product",
+          "settings": {
+            "title": "Classic Denim Jacket",
+            "price": "$150.00",
+            "compare_price": "$180.00",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product-3": {
+          "type": "product",
+          "settings": {
+            "title": "Summer Dress",
+            "price": "$120.00",
+            "compare_price": "$150.00",
+            "badge_text": "",
+            "product_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-0",
+        "product-1",
+        "product-2",
+        "product-3"
+      ],
+      "settings": {
+        "title": "Today's Picks"
+      }
+    },
+    "best_sellers": {
+      "type": "best-sellers",
+      "blocks": {
+        "product1": {
+          "type": "product",
+          "settings": {
+            "title": "Classic White T-Shirt",
+            "price": "$29.99",
+            "compare_price": "$39.99",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product2": {
+          "type": "product",
+          "settings": {
+            "title": "Denim Jacket",
+            "price": "$89.99",
+            "compare_price": "",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product3": {
+          "type": "product",
+          "settings": {
+            "title": "Leather Handbag",
+            "price": "$129.99",
+            "compare_price": "$159.99",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product4": {
+          "type": "product",
+          "settings": {
+            "title": "Summer Dress",
+            "price": "$79.99",
+            "compare_price": "$99.99",
+            "badge_text": "",
+            "product_url": ""
+          }
+        },
+        "product5": {
+          "type": "product",
+          "settings": {
+            "title": "Casual Sneakers",
+            "price": "$69.99",
+            "compare_price": "$89.99",
+            "badge_text": "",
+            "product_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "product1",
+        "product2",
+        "product3",
+        "product4",
+        "product5"
+      ],
+      "settings": {
+        "title": "Best Sellers"
+      }
+    },
+    "shop_gram": {
+      "type": "shop-gram",
+      "blocks": {
+        "instagram-1": {
+          "type": "instagram",
+          "settings": {
+            "title": "Summer Collection",
+            "subtitle": "@yourstore",
+            "instagram_url": "https:\/\/instagram.com\/yourstore"
+          }
+        },
+        "instagram-2": {
+          "type": "instagram",
+          "settings": {
+            "title": "New Arrivals",
+            "subtitle": "@yourstore",
+            "instagram_url": "https:\/\/instagram.com\/yourstore"
+          }
+        },
+        "instagram-3": {
+          "type": "instagram",
+          "settings": {
+            "title": "Trending Now",
+            "subtitle": "@yourstore",
+            "instagram_url": "https:\/\/instagram.com\/yourstore"
+          }
+        },
+        "instagram-4": {
+          "type": "instagram",
+          "settings": {
+            "title": "Best Sellers",
+            "subtitle": "@yourstore",
+            "instagram_url": "https:\/\/instagram.com\/yourstore"
+          }
+        }
+      },
+      "block_order": [
+        "instagram-1",
+        "instagram-2",
+        "instagram-3",
+        "instagram-4"
+      ],
+      "settings": {
+        "title": "Shop by @Gram"
+      }
+    },
+    "brands": {
+      "type": "brands",
+      "blocks": {
+        "brand1": {
+          "type": "brand",
+          "settings": {
+            "brand_name": "Brand Name",
+            "brand_url": ""
+          }
+        },
+        "brand2": {
+          "type": "brand",
+          "settings": {
+            "brand_name": "Brand Name",
+            "brand_url": ""
+          }
+        },
+        "brand3": {
+          "type": "brand",
+          "settings": {
+            "brand_name": "Brand Name",
+            "brand_url": ""
+          }
+        },
+        "brand4": {
+          "type": "brand",
+          "settings": {
+            "brand_name": "Brand Name",
+            "brand_url": ""
+          }
+        },
+        "brand5": {
+          "type": "brand",
+          "settings": {
+            "brand_name": "Brand Name",
+            "brand_url": ""
+          }
+        },
+        "brand6": {
+          "type": "brand",
+          "settings": {
+            "brand_name": "Brand Name",
+            "brand_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "brand1",
+        "brand2",
+        "brand3",
+        "brand4",
+        "brand5",
+        "brand6"
+      ],
+      "settings": {
+        "title": "Our Brands"
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Emily T.",
+            "quote": "The quality of the clothes exceeded my expectations. Every piece feels premium, and the designs are so trendy. I'm obsessed with my new wardrobe additions!",
+            "product_name": "Crop T-shirt",
+            "product_price": "$150.00",
+            "product_url": ""
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Emily T.",
+            "quote": "The quality of the clothes exceeded my expectations. Every piece feels premium, and the designs are so trendy. I'm obsessed with my new wardrobe additions!",
+            "product_name": "Crop T-shirt",
+            "product_price": "$150.00",
+            "product_url": ""
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Emily T.",
+            "quote": "The quality of the clothes exceeded my expectations. Every piece feels premium, and the designs are so trendy. I'm obsessed with my new wardrobe additions!",
+            "product_name": "Crop T-shirt",
+            "product_price": "$150.00",
+            "product_url": ""
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Emily T.",
+            "quote": "The quality of the clothes exceeded my expectations. Every piece feels premium, and the designs are so trendy. I'm obsessed with my new wardrobe additions!",
+            "product_name": "Crop T-shirt",
+            "product_price": "$150.00",
+            "product_url": ""
+          }
+        },
+        "testimonial-5": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Emily T.",
+            "quote": "The quality of the clothes exceeded my expectations. Every piece feels premium, and the designs are so trendy. I'm obsessed with my new wardrobe additions!",
+            "product_name": "Crop T-shirt",
+            "product_price": "$150.00",
+            "product_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "testimonial-4",
+        "testimonial-5"
+      ],
+      "settings": {
+        "title": "Happy Customers"
+      }
+    },
+    "icon_box": {
+      "type": "icon-box",
+      "blocks": {
+        "icon_box-1": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-shipping",
+            "title": "Free Shipping",
+            "description": "Enjoy free shipping on all orders"
+          }
+        },
+        "icon_box-2": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-gift",
+            "title": "Gift Package",
+            "description": "Perfectly packaged for gifting"
+          }
+        },
+        "icon_box-3": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-return",
+            "title": "Free Returns",
+            "description": "Within 14 days for a return"
+          }
+        },
+        "icon_box-4": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-support",
+            "title": "Support Online",
+            "description": "We support customers 24\/7"
+          }
+        }
+      },
+      "block_order": [
+        "icon_box-1",
+        "icon_box-2",
+        "icon_box-3",
+        "icon_box-4"
+      ],
+      "settings": {
+        "layout": "default",
+        "slides_per_view_mobile": 2,
+        "slides_per_view_tablet": 3,
+        "slides_per_view_desktop": 4,
+        "space_between": 10,
+        "show_pagination": true
+      }
+    },
+    "collection_slider_EbkU8C": {
+      "type": "collection-slider",
+      "blocks": {
+        "slide_XGaqVR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mastercard.png",
+            "button_text": "Shop Now",
+            "button_link": ""
+          }
+        },
+        "slide_WUXWCU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GooglePay.png",
+            "button_text": "Shop Now",
+            "button_link": ""
+          }
+        },
+        "slide_qii9G4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Visa.png",
+            "button_text": "Shop Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_XGaqVR",
+        "slide_WUXWCU",
+        "slide_qii9G4"
+      ],
+      "settings": {
+        "margin_bottom": 36,
+        "slides_per_view_desktop": 3,
+        "slides_per_view_tablet": 2,
+        "slides_per_view_mobile": 1.5,
+        "space_between": 15,
+        "space_between_mobile": 5
+      }
+    },
+    "top_pick_rRFMkh": {
+      "type": "top-pick",
+      "blocks": {
+        "product_jAxz4T": {
+          "type": "product",
+          "settings": {
+            "product": "aclla-cress",
+            "show_sale_badge": false,
+            "sale_badge_text": "20% Off",
+            "show_trending_badge": false,
+            "trending_badge_text": "Trending",
+            "show_color_swatches": false,
+            "show_size_swatches": false,
+            "size_swatches": "",
+            "show_countdown": false,
+            "countdown_timer": "86400"
+          }
+        },
+        "product_JyAjLT": {
+          "type": "product",
+          "settings": {
+            "product": "aloe-arborescens",
+            "show_sale_badge": false,
+            "sale_badge_text": "20% Off",
+            "show_trending_badge": false,
+            "trending_badge_text": "Trending",
+            "show_color_swatches": false,
+            "show_size_swatches": false,
+            "size_swatches": "",
+            "show_countdown": false,
+            "countdown_timer": "86400"
+          }
+        },
+        "product_kUE7GE": {
+          "type": "product",
+          "settings": {
+            "product": "annurca-apples",
+            "show_sale_badge": false,
+            "sale_badge_text": "20% Off",
+            "show_trending_badge": false,
+            "trending_badge_text": "Trending",
+            "show_color_swatches": false,
+            "show_size_swatches": false,
+            "size_swatches": "",
+            "show_countdown": false,
+            "countdown_timer": "86400"
+          }
+        },
+        "product_fpBCaQ": {
+          "type": "product",
+          "settings": {
+            "product": "apples-granny",
+            "show_sale_badge": false,
+            "sale_badge_text": "20% Off",
+            "show_trending_badge": false,
+            "trending_badge_text": "Trending",
+            "show_color_swatches": false,
+            "show_size_swatches": false,
+            "size_swatches": "",
+            "show_countdown": false,
+            "countdown_timer": "86400"
+          }
+        }
+      },
+      "block_order": [
+        "product_jAxz4T",
+        "product_JyAjLT",
+        "product_kUE7GE",
+        "product_fpBCaQ"
+      ],
+      "settings": {
+        "layout": "home-fashion-02",
+        "title": "Top Picks You'll Love",
+        "description": "Explore our most popular pieces that customers can't get enough of",
+        "spacing": "flat-spacing-8",
+        "background_color": "bg-surface",
+        "show_view_all": true,
+        "view_all_link": "",
+        "view_all_text": "View all"
+      }
+    },
+    "collection_jkERjK": {
+      "type": "collection",
+      "blocks": {
+        "collection_XeU3k3": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mastercard.png",
+            "title": "Tops",
+            "link": ""
+          }
+        },
+        "collection_nfnpEn": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GooglePay.png",
+            "title": "Bottoms",
+            "link": ""
+          }
+        },
+        "collection_y7jjfj": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DinersClub.png",
+            "title": "Accessories",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_XeU3k3",
+        "collection_nfnpEn",
+        "collection_y7jjfj"
+      ],
+      "settings": {
+        "layout": "home-fashion-women",
+        "speed": 800
+      }
+    },
+    "banner_collection_HeDRCy": {
+      "type": "banner-collection",
+      "settings": {
+        "title": "Unmatched Performance",
+        "subtitle": "Upgrade your devices with cutting-edge technology.",
+        "button_text": "Shop Now",
+        "button_link": "",
+        "padding_top": 100
+      }
+    },
+    "banner_text_CPyLBW": {
+      "type": "banner-text",
+      "settings": {
+        "layout": "home-fashion-02",
+        "banner_link": "",
+        "featured_product": "aclla-cress",
+        "heading": "Elevating Your Style Journey",
+        "subtext": "Discover timeless pieces that define elegance and sophistication.",
+        "button_label": "Shop Now",
+        "button_link": "",
+        "fashion_heading": "Sustainable Fashion",
+        "fashion_subtext": "Look good, feel good with eco-friendly and stylish designs.",
+        "fashion_button_label": "Shop Now",
+        "fashion_button_link": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection_categories",
+    "banner_countdown",
+    "categories",
+    "todays_picks",
+    "best_sellers",
+    "shop_gram",
+    "brands",
+    "testimonials",
+    "icon_box",
+    "collection_slider_EbkU8C",
+    "top_pick_rRFMkh",
+    "collection_jkERjK",
+    "banner_collection_HeDRCy",
+    "banner_text_CPyLBW"
+  ]
+}

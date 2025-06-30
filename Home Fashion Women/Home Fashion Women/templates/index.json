@@ -1,0 +1,427 @@
+{
+  "sections": {
+    "main_slider_LxBrpH": {
+      "type": "main-slider",
+      "blocks": {
+        "slide_y4DUC8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-1_48e662d8-9f68-4eb3-928e-00a7dcdb2d43.png",
+            "content_alignment": "left",
+            "subtitle": "SUMMER COLLECTION",
+            "heading": "Everyday Essentials",
+            "subheading": "Versatile pieces for all-day style",
+            "button_text": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/women"
+          }
+        },
+        "slide_D4hkwY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-2_c0bb19e1-b77a-4ab9-a9b8-ad8c6c005561.png",
+            "content_alignment": "left",
+            "subtitle": "SUMMER COLLECTION",
+            "heading": "Bold and Beautiful",
+            "subheading": "Stand out with chic, trend-setting women’s fashion.",
+            "button_text": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/women"
+          }
+        },
+        "slide_yWQ7aN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-3_3fe83e8b-c789-4ab8-9419-9d2e8e992c86.png",
+            "content_alignment": "left",
+            "subtitle": "SUMMER COLLECTION",
+            "heading": "Feminine Elegance",
+            "subheading": "Find the perfect outfit for any occasion.",
+            "button_text": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/women"
+          }
+        }
+      },
+      "block_order": [
+        "slide_y4DUC8",
+        "slide_D4hkwY",
+        "slide_yWQ7aN"
+      ],
+      "settings": {
+        "layout": "layout2",
+        "width": "full",
+        "image_height_mode": "adapt",
+        "fixed_height": 600,
+        "mobile_image_height_mode": "adapt",
+        "mobile_fixed_height": 400,
+        "autoplay": true,
+        "speed": 800,
+        "show_navigation": false,
+        "show_dots": true,
+        "padding": 0,
+        "pause_on_hover": true,
+        "effect": "slide",
+        "direction": "horizontal",
+        "draggable": true
+      }
+    },
+    "featured_collection_KC9ne3": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_eKx9Ri": {
+          "type": "collection",
+          "settings": {
+            "collection": "clothes",
+            "tag": "",
+            "price_new": "",
+            "price_old": "",
+            "button_text": "See Details"
+          }
+        },
+        "collection_XPFDwG": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories-1",
+            "tag": "",
+            "price_new": "",
+            "price_old": "",
+            "button_text": "See Details"
+          }
+        },
+        "collection_tTJMpq": {
+          "type": "collection",
+          "settings": {
+            "collection": "sportwear-1",
+            "tag": "",
+            "price_new": "",
+            "price_old": "",
+            "button_text": "See Details"
+          }
+        }
+      },
+      "block_order": [
+        "collection_eKx9Ri",
+        "collection_XPFDwG",
+        "collection_tTJMpq"
+      ],
+      "settings": {
+        "width": "full",
+        "layout": "layout2",
+        "slides_per_view_mobile": 1,
+        "slides_per_view_tablet": 2,
+        "slides_per_view": 3,
+        "slides_per_group_mobile": 1,
+        "slides_per_group_tablet": 2,
+        "slides_per_group_desktop": 3,
+        "space_between_mobile": 0,
+        "space_between_desktop": 0,
+        "speed": 800,
+        "enable_navigation": true,
+        "show_pagination": true,
+        "enable_autoplay": false,
+        "autoplay_speed": 5000,
+        "pause_on_hover": true,
+        "enable_observer": true
+      }
+    },
+    "top_sellers_VRntpt": {
+      "type": "top-sellers",
+      "blocks": {
+        "tab_8eJMKV": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "Top Sellers",
+            "tab_id": "seller",
+            "collection": "fashion-women",
+            "products_limit": 8
+          }
+        },
+        "tab_YzCVPR": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "On Sale",
+            "tab_id": "onSale",
+            "collection": "fashion-women",
+            "products_limit": 8
+          }
+        },
+        "tab_88tiNi": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "Trending",
+            "tab_id": "trending",
+            "collection": "fashion-women",
+            "products_limit": 8
+          }
+        }
+      },
+      "block_order": [
+        "tab_8eJMKV",
+        "tab_YzCVPR",
+        "tab_88tiNi"
+      ],
+      "settings": {
+        "default_tab": "seller",
+        "width": "boxed"
+      }
+    },
+    "banner_text_nDkprB": {
+      "type": "banner-text",
+      "blocks": {
+        "lookbook_PVzLw9": {
+          "type": "lookbook",
+          "settings": {
+            "product": "loose-fit-tee"
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_PVzLw9"
+      ],
+      "settings": {
+        "layout": "default",
+        "width": "boxed",
+        "banner_product": "",
+        "banner_image": "shopify:\/\/shop_images\/fashion-woman_1.jpg",
+        "banner_link": "",
+        "title": "Elevating Your Style Journey",
+        "description": "Discover timeless pieces that define elegance and sophistication.",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/collections\/women"
+      }
+    },
+    "testimonials_Xi7XPL": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_tNJqqH": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Emily T.",
+            "image": "shopify:\/\/shop_images\/women_fashion_3.webp",
+            "testimonial_image": "shopify:\/\/shop_images\/women_fashion_3.webp",
+            "product": "Loose Fit Tee",
+            "product_url": "shopify:\/\/products\/loose-fit-tee",
+            "price": "$150.00",
+            "review": "I recently bought a dress from this store, and it has quickly become my favorite piece. The fabric is high-quality, the fit is perfect, and the design is both stylish and elegant. Highly recommend!",
+            "title": "Elegance and Comfort Combined"
+          }
+        },
+        "testimonial_eMRM8h": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Jessica M.",
+            "image": "shopify:\/\/shop_images\/product_10.webp",
+            "testimonial_image": "shopify:\/\/shop_images\/product_10.webp",
+            "product": "Round Neck Boxy T-shirt",
+            "product_url": "shopify:\/\/products\/round-neck-boxy-t-shirt",
+            "price": "$150.00",
+            "review": "I recently purchased a handbag from this store, and I couldn’t be happier! The design is elegant, the quality is exceptional, and it complements every outfit perfectly. Definitely a great buy!",
+            "title": "Elegance and Comfort Combined"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_tNJqqH",
+        "testimonial_eMRM8h"
+      ],
+      "settings": {
+        "layout": "home-fashion-women",
+        "title": "Happy Customers",
+        "subtitle": "Experience with our products",
+        "slides_per_view_mobile": 3,
+        "slides_per_view_tablet": 2,
+        "slides_per_view_desktop": 3,
+        "space_between_mobile": 12,
+        "space_between_desktop": 24,
+        "transition_speed": 800,
+        "show_navigation": true,
+        "show_pagination": true,
+        "enable_autoplay": false,
+        "autoplay_speed": 3000,
+        "pause_on_hover": true,
+        "enable_observer": true
+      }
+    },
+    "brands_4Uwhrt": {
+      "type": "brands",
+      "blocks": {
+        "brand_mCqf8K": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/zara_232eddf9-8ce4-4911-a177-8efe9c47dd47.png",
+            "brand_link": ""
+          }
+        },
+        "brand_NCttaQ": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/bear_fde932fe-e47e-434f-89b6-662f0ca27862.png",
+            "brand_link": ""
+          }
+        },
+        "brand_4UXjJQ": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/logo04.png",
+            "brand_link": ""
+          }
+        },
+        "brand_aFyGnn": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/logo03.png",
+            "brand_link": ""
+          }
+        },
+        "brand_hxJbeP": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/logo05.png",
+            "brand_link": ""
+          }
+        },
+        "brand_YxchfL": {
+          "type": "brand",
+          "settings": {
+            "brand_image": "shopify:\/\/shop_images\/logo06.png",
+            "brand_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "brand_mCqf8K",
+        "brand_NCttaQ",
+        "brand_4UXjJQ",
+        "brand_aFyGnn",
+        "brand_hxJbeP",
+        "brand_YxchfL"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "width": "boxed",
+        "layout": "layout2",
+        "speed": 80,
+        "style": "left",
+        "clone": 2
+      }
+    },
+    "shop_gram_c7w3Dq": {
+      "type": "shop-gram",
+      "blocks": {
+        "image_8xcXdN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram01.webp",
+            "link": "shopify:\/\/products\/black-sleeves",
+            "tooltip_text": "View Product"
+          }
+        },
+        "image_9HFR9W": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram02.webp",
+            "link": "shopify:\/\/products\/classic-sweater",
+            "tooltip_text": "View Product"
+          }
+        },
+        "image_CtTD43": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram03.webp",
+            "link": "shopify:\/\/products\/crop-t-shirt",
+            "tooltip_text": "View Product"
+          }
+        },
+        "image_Phft7h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram04.webp",
+            "link": "shopify:\/\/products\/classic-jackets",
+            "tooltip_text": "View Product"
+          }
+        },
+        "image_x9KAKR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram05.webp",
+            "link": "shopify:\/\/products\/colorful-jacket",
+            "tooltip_text": "View Product"
+          }
+        }
+      },
+      "block_order": [
+        "image_8xcXdN",
+        "image_9HFR9W",
+        "image_CtTD43",
+        "image_Phft7h",
+        "image_x9KAKR"
+      ],
+      "settings": {
+        "width": "boxed",
+        "title": "Shop by @Gram",
+        "instagram_user_id": "",
+        "instagram_access_token": ""
+      }
+    },
+    "icon_boxes_yaaQjQ": {
+      "type": "icon-boxes",
+      "blocks": {
+        "icon_box_TNVCwp": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-shipping",
+            "title": "Free Shipping",
+            "description": "Enjoy free shipping on all orders"
+          }
+        },
+        "icon_box_EiWbVM": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-gift",
+            "title": "Gift Package",
+            "description": "Perfectly packaged for gifting"
+          }
+        },
+        "icon_box_TY9kzY": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-return",
+            "title": "Free Returns",
+            "description": "Within 14 days for a return"
+          }
+        },
+        "icon_box_iKEiMP": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-support",
+            "title": "Support Online",
+            "description": "We support customers 24\/7"
+          }
+        }
+      },
+      "block_order": [
+        "icon_box_TNVCwp",
+        "icon_box_EiWbVM",
+        "icon_box_TY9kzY",
+        "icon_box_iKEiMP"
+      ],
+      "settings": {
+        "layout": "default",
+        "slides_per_view_mobile": 1,
+        "slides_per_view_tablet": 3,
+        "slides_per_view_desktop": 4,
+        "space_between": 10,
+        "show_pagination": true
+      }
+    }
+  },
+  "order": [
+    "main_slider_LxBrpH",
+    "featured_collection_KC9ne3",
+    "top_sellers_VRntpt",
+    "banner_text_nDkprB",
+    "testimonials_Xi7XPL",
+    "brands_4Uwhrt",
+    "shop_gram_c7w3Dq",
+    "icon_boxes_yaaQjQ"
+  ]
+}

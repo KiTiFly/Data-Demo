@@ -1,0 +1,487 @@
+{
+  "sections": {
+    "main-slider": {
+      "type": "main-slider",
+      "blocks": {
+        "slide_7qCRap": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slider-phonecase-1_07dda801-6265-4869-b797-3ac4c0dbefed.jpg",
+            "content_alignment": "left",
+            "subtitle": "",
+            "heading": "Protect in Style",
+            "subheading": "Find the perfect case for your phone",
+            "button_text": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/android-cases"
+          }
+        },
+        "slide_LMWi7T": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phonecase-slide02.webp",
+            "content_alignment": "left",
+            "subtitle": "",
+            "heading": "Express Your Style",
+            "subheading": "Personalized cases designed to match your unique <br>personality.",
+            "button_text": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/iphone-cases"
+          }
+        },
+        "slide_bHHNbh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phonecase-slide03.webp",
+            "content_alignment": "left",
+            "subtitle": "",
+            "heading": "Ultimate Protection,<br>Sleek Design",
+            "subheading": "Durable phone cases that blend protection with elegance.",
+            "button_text": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/airpod-cases"
+          }
+        }
+      },
+      "block_order": [
+        "slide_7qCRap",
+        "slide_LMWi7T",
+        "slide_bHHNbh"
+      ],
+      "settings": {
+        "layout": "layout4",
+        "width": "full",
+        "image_height_mode": "fixed",
+        "fixed_height": 920,
+        "mobile_image_height_mode": "fixed",
+        "mobile_fixed_height": 400,
+        "autoplay": true,
+        "speed": 800,
+        "show_navigation": false,
+        "show_dots": true,
+        "padding": 0,
+        "pause_on_hover": true,
+        "effect": "slide",
+        "direction": "horizontal",
+        "draggable": true
+      }
+    },
+    "categories": {
+      "type": "categories",
+      "blocks": {
+        "category_4YdLni": {
+          "type": "category",
+          "settings": {
+            "collection": "iphone-cases"
+          }
+        },
+        "category_BXazwd": {
+          "type": "category",
+          "settings": {
+            "collection": "android-cases"
+          }
+        },
+        "category_a7YUmV": {
+          "type": "category",
+          "settings": {
+            "collection": "watch-straps"
+          }
+        },
+        "category_NkBNyU": {
+          "type": "category",
+          "settings": {
+            "collection": "airpod-cases"
+          }
+        },
+        "category_96gNy4": {
+          "type": "category",
+          "settings": {
+            "collection": "ring-holders"
+          }
+        },
+        "category_7Gz7mW": {
+          "type": "category",
+          "settings": {
+            "collection": "customizations"
+          }
+        }
+      },
+      "block_order": [
+        "category_4YdLni",
+        "category_BXazwd",
+        "category_a7YUmV",
+        "category_NkBNyU",
+        "category_96gNy4",
+        "category_7Gz7mW"
+      ],
+      "settings": {
+        "width": "boxed",
+        "layout": "phonecase",
+        "title": "Categories",
+        "button_text": "Categories",
+        "slides_per_view_mobile": 2,
+        "slides_per_view_tablet": 3,
+        "slides_per_view_desktop": 6,
+        "space_between_mobile": 12,
+        "space_between_desktop": 24,
+        "transition_speed": 800,
+        "show_navigation": false,
+        "show_pagination": true,
+        "autoplay": false,
+        "autoplay_speed": 3000,
+        "products_per_collection": 6
+      }
+    },
+    "top_picks_8J99Uh": {
+      "type": "top-picks",
+      "settings": {
+        "layout": "home-phonecase",
+        "subtitle": "Discover our top picks",
+        "title": "Featured Collections",
+        "description": "Explore our most popular pieces that customers can't get enough of",
+        "product_source": "product_list",
+        "collection": "",
+        "product_list": [
+          "apple-iphone-14-silicone-case",
+          "apple-iphone-14-silicone-case-1",
+          "apple-iphone-14-silicone-case-3",
+          "apple-iphone-14-silicone-case-2",
+          "peachy-iphone-13-pro-case",
+          "iphone-15-pro-max-magsafe",
+          "favorite-bikini-iphone-14-pro-max-case",
+          "iphone-14-pro-butterfly-flutter"
+        ],
+        "spacing": "flat-spacing-8",
+        "background_color": "bg-surface",
+        "show_view_all": true,
+        "view_all_link": "",
+        "view_all_text": "View all",
+        "slides_per_view_mobile": 2,
+        "slides_per_view_tablet": 3,
+        "slides_per_view_desktop": 4,
+        "space_between_mobile": 10,
+        "space_between_desktop": 20,
+        "slides_per_group_mobile": 1,
+        "slides_per_group_tablet": 2,
+        "slides_per_group_desktop": 3,
+        "transition_speed": 300,
+        "show_navigation": true,
+        "show_pagination": true,
+        "enable_autoplay": false,
+        "autoplay_speed": 3000,
+        "pause_on_hover": true,
+        "enable_observer": true
+      }
+    },
+    "top-picks": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_cYLyCB": {
+          "type": "collection",
+          "settings": {
+            "collection": "elago-liquid-silicone",
+            "tag": "Sale 50% Off",
+            "price_new": "$130.00",
+            "price_old": "$150.00",
+            "button_text": "See Details"
+          }
+        },
+        "collection_rtWFJg": {
+          "type": "collection",
+          "settings": {
+            "collection": "elago-liquid-silicone-1",
+            "tag": "Sale 50% Off",
+            "price_new": "$80.00",
+            "price_old": "$130.00",
+            "button_text": "See Details"
+          }
+        }
+      },
+      "block_order": [
+        "collection_cYLyCB",
+        "collection_rtWFJg"
+      ],
+      "settings": {
+        "width": "full",
+        "layout": "layout3",
+        "slides_per_view_mobile": 1,
+        "slides_per_view_tablet": 1,
+        "slides_per_view": 2,
+        "slides_per_group_mobile": 1,
+        "slides_per_group_tablet": 2,
+        "slides_per_group_desktop": 3,
+        "space_between_mobile": 12,
+        "space_between_desktop": 24,
+        "speed": 800,
+        "enable_navigation": true,
+        "show_pagination": true,
+        "enable_autoplay": false,
+        "autoplay_speed": 5000,
+        "pause_on_hover": true,
+        "enable_observer": true
+      }
+    },
+    "banner-countdown": {
+      "type": "banner-countdown",
+      "settings": {
+        "width": "boxed",
+        "layout": "home-phonecase",
+        "show_section": true,
+        "product": "crop-t-shirt",
+        "banner_image": "shopify:\/\/shop_images\/phonecase_03.webp",
+        "heading": "Limited-Time Sale",
+        "subheading": "Get your favorite cases at a discount",
+        "season_text": "SUMMER SALE",
+        "promo_code": "12D34E",
+        "show_countdown": true,
+        "button_label": "Shop Now",
+        "button_link": "\/collections"
+      }
+    },
+    "banner-tagline": {
+      "type": "banner-tagline",
+      "blocks": {
+        "feature_KtbjD3": {
+          "type": "feature",
+          "settings": {
+            "icon": "icon-protection",
+            "heading": "Durable Protection",
+            "text": "Our cases are designed to withstand drops and scratches, keeping your phone safe."
+          }
+        },
+        "feature_CGzJYe": {
+          "type": "feature",
+          "settings": {
+            "icon": "icon-designs",
+            "heading": "Stylish Designs",
+            "text": "Choose from a wide range of trendy and unique designs that suit your style."
+          }
+        },
+        "feature_cRw8tD": {
+          "type": "feature",
+          "settings": {
+            "icon": "icon-fit",
+            "heading": "Perfect Fit",
+            "text": "Each case is precisely crafted to fit your phone model, ensuring easy access to all buttons and ports."
+          }
+        },
+        "feature_KChgrN": {
+          "type": "feature",
+          "settings": {
+            "icon": "icon-quality",
+            "heading": "Affordable Quality",
+            "text": "Enjoy premium protection without breaking the bank."
+          }
+        }
+      },
+      "block_order": [
+        "feature_KtbjD3",
+        "feature_CGzJYe",
+        "feature_cRw8tD",
+        "feature_KChgrN"
+      ],
+      "settings": {
+        "width": "boxed",
+        "image": "shopify:\/\/shop_images\/phonecase_04.webp",
+        "title": "What Make Us Different?"
+      }
+    },
+    "just_arrivals_eHVVt6": {
+      "type": "just-arrivals",
+      "blocks": {
+        "tab_rxWaBa": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "iPhone",
+            "tab_id": "iphone",
+            "collection": "iphone",
+            "products_to_show": 8
+          }
+        },
+        "tab_TReczN": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "Android",
+            "tab_id": "android",
+            "collection": "android",
+            "products_to_show": 8
+          }
+        },
+        "tab_iKLgji": {
+          "type": "tab",
+          "settings": {
+            "tab_title": "Personalized",
+            "tab_id": "personalized",
+            "collection": "android",
+            "products_to_show": 8
+          }
+        }
+      },
+      "block_order": [
+        "tab_rxWaBa",
+        "tab_TReczN",
+        "tab_iKLgji"
+      ],
+      "settings": {
+        "subtitle": "Discover our top picks",
+        "title": "Just Arrivals",
+        "slides_per_view_mobile": 2,
+        "slides_per_view_tablet": 3,
+        "slides_per_view_desktop": 4,
+        "slides_per_group_mobile": 2,
+        "slides_per_group_tablet": 3,
+        "slides_per_group_desktop": 4,
+        "space_between_mobile": 12,
+        "space_between_desktop": 24,
+        "transition_speed": 800,
+        "show_navigation": true,
+        "show_pagination": true,
+        "enable_autoplay": false,
+        "autoplay_speed": 3000,
+        "pause_on_hover": true,
+        "enable_observer": true
+      }
+    },
+    "banner-collection": {
+      "type": "banner-collection",
+      "settings": {
+        "width": "boxed",
+        "layout": "phonecase",
+        "video": "",
+        "image": "shopify:\/\/shop_images\/phonecase_05.webp",
+        "title": "See Our Cases<br>in Action",
+        "subtitle": "Discover the features that make our cases stand out",
+        "button_text": "Shop Collection",
+        "button_link": "shopify:\/\/collections\/android-cases",
+        "padding_top": 36
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_XMWmEN": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Emily T.",
+            "image": "shopify:\/\/shop_images\/product-1.jpg",
+            "product": "Moonlight - iPhone 16 Case",
+            "product_url": "shopify:\/\/products\/apple-iphone-14-silicone-case",
+            "price": "$150.00",
+            "review": "The phone case is beyond amazing! The material feels premium, fits perfectly, and offers great protection. I love the sleek design.",
+            "title": "Elegance and Comfort Combined"
+          }
+        },
+        "testimonial_BrkYTt": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Jessica M.",
+            "image": "shopify:\/\/shop_images\/product-2.jpg",
+            "product": "Heatwave - iPhone 16 Case",
+            "product_url": "shopify:\/\/products\/apple-iphone-14-silicone-case-1",
+            "price": "$130.00",
+            "review": "I love this phone case! The material is smooth, and it fits perfectly. I've gotten so many compliments on it. Will definitely buy again!",
+            "title": "Elegance and Comfort Combined"
+          }
+        },
+        "testimonial_wifQbQ": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Lisa P.",
+            "image": "shopify:\/\/shop_images\/product-8.jpg",
+            "product": "iPhone 14 Pro Max Case",
+            "product_url": "shopify:\/\/products\/iphone-14-pro-butterfly-flutter",
+            "price": "$140.00",
+            "review": "I was pleasantly surprised by how fast my order arrived. The customer service team was helpful and responsive. Great shopping experience!",
+            "title": "Elegance and Comfort Combined"
+          }
+        },
+        "testimonial_zXBBh9": {
+          "type": "testimonial",
+          "settings": {
+            "name": "Emily T.",
+            "image": "shopify:\/\/shop_images\/product-4.jpg",
+            "product": "Moonlight - iPhone 16                                                        Case",
+            "product_url": "shopify:\/\/products\/apple-iphone-14-silicone-case-2",
+            "price": "$120.00",
+            "review": "The phone case is beyond amazing! The material feels premium, fits perfectly, and offers great protection. I love the sleek design and soft touch",
+            "title": "Elegance and Comfort Combined"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_XMWmEN",
+        "testimonial_BrkYTt",
+        "testimonial_wifQbQ",
+        "testimonial_zXBBh9"
+      ],
+      "settings": {
+        "layout": "home-phonecase",
+        "title": "Testimonials",
+        "subtitle": "Experience with our products",
+        "slides_per_view_mobile": 1,
+        "slides_per_view_tablet": 2,
+        "slides_per_view_desktop": 3,
+        "space_between_mobile": 12,
+        "space_between_desktop": 24,
+        "transition_speed": 800,
+        "show_navigation": true,
+        "show_pagination": true,
+        "enable_autoplay": false,
+        "autoplay_speed": 3000,
+        "pause_on_hover": true,
+        "enable_observer": true
+      }
+    },
+    "icon-boxes": {
+      "type": "icon-boxes",
+      "blocks": {
+        "icon_box_xDJaVX": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-sun",
+            "title": "Free shipping for order over $100",
+            "description": "Enjoy free shipping on all orders"
+          }
+        },
+        "icon_box_TfzxQX": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-sun",
+            "title": "Free return in 14 days",
+            "description": "Enjoy free shipping on all orders"
+          }
+        },
+        "icon_box_TjJDq4": {
+          "type": "icon_box",
+          "settings": {
+            "icon": "icon-sun",
+            "title": "Payment sercured",
+            "description": "Enjoy free shipping on all orders"
+          }
+        }
+      },
+      "block_order": [
+        "icon_box_xDJaVX",
+        "icon_box_TfzxQX",
+        "icon_box_TjJDq4"
+      ],
+      "settings": {
+        "layout": "phonecase",
+        "slides_per_view_mobile": 1,
+        "slides_per_view_tablet": 3,
+        "slides_per_view_desktop": 4,
+        "space_between": 10,
+        "show_pagination": true
+      }
+    }
+  },
+  "order": [
+    "main-slider",
+    "categories",
+    "top_picks_8J99Uh",
+    "top-picks",
+    "banner-countdown",
+    "banner-tagline",
+    "just_arrivals_eHVVt6",
+    "banner-collection",
+    "testimonials",
+    "icon-boxes"
+  ]
+}
